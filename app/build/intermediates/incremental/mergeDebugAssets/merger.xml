@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Ryan\AndroidStudioProjects\dashboard\app\src\main\assets"/><source path="C:\Users\Ryan\AndroidStudioProjects\dashboard\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Ryan\AndroidStudioProjects\dashboard\app\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Ryan\Documents\GITHUB\dashboard\app\src\main\assets"/><source path="C:\Users\Ryan\Documents\GITHUB\dashboard\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Ryan\Documents\GITHUB\dashboard\app\src\debug\assets"/></dataSet></merger>
